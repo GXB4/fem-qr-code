@@ -1,2 +1,2 @@
-# fem-qr-code
+# fm-qr-code
 Attempting my first front end mentor project
